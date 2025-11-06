@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schedule>
+  <!-- adadaadaaaddd -->
+  <section name="week_information">
+    <even_week>false</even_week>
+    <current_week_number>9</current_week_number>
+  </section>
+  <!-- aaajaajaj -->
+  <!-- flkjalkjfalflkajlka -->
+  <section name="tuesday">
+    <lesson_numbers>1, 2, 3, 4</lesson_numbers>
+  </section>
+  <!-- ;fjlkkajjfaljfa -->
+  <section name="tuesday_lesson_1">
+    <academic_building>Kronverksky Prospekt { 49, Building A</academic_building>
+    <classroom>1419</classroom>
+    <time>11:30-13:00</time>
+    <!-- ###adadadadadadad -->
+    <discipline>Higher Algebra</discipline>
+    <lesson_type>Lecture</lesson_type>
+    <teacher>Karpov Dmitry Valerievich</teacher>
+  </section>
+  <!-- alfjnakllkakdl -->
+  <!-- skdka -->
+  <!-- llkannkknlknnlnaaaa -->
+  <section name="tuesday_lesson_2">
+    <academic_building>Kronverksky Prospekt&quot; 49, Building A</academic_building>
+    <classroom>1327</classroom>
+    <time>13:30-15:00</time>
+    <discipline>Higher Algebra</discipline>
+    <lesson_type>Practice</lesson_type>
+    <teacher>Slobodyanyuk &lt;Mikhail&gt; Yurievich</teacher>
+  </section>
+  <section name="tuesday_lesson_3">
+    <academic_building>Kronverksky \&quot;&lt;Prospekt 49\&gt;, Building A</academic_building>
+    <classroom>2433</classroom>
+    <time>15:30-17:00</time>
+    <discipline>Mathematical Analysis (Advanced Level)</discipline>
+    <lesson_type>Lecture</lesson_type>
+    <teacher>Starkov Alexander Sergeevich</teacher>
+  </section>
+  <section name="tuesday_lesson_4">
+    <academic_building>Kronverksky Prospekt 49, Building A</academic_building>
+    <classroom>2306/1</classroom>
+    <time>17:10-18:40</time>
+    <discipline>Mathematical Analysis (Advanced Level)</discipline>
+    <lesson_type>Practice</lesson_type>
+    <teacher>Popov Anton Igorevich</teacher>
+  </section>
+  <section name="thursday">
+    <lesson_numbers>1, 2</lesson_numbers>
+  </section>
+  <section name="thursday_lesson_1">
+    <academic_building>Kronverksky Prospekt 49, Building A</academic_building>
+    <classroom>2336</classroom>
+    <time>11:30-13:00</time>
+    <discipline>History of Russian science and technology</discipline>
+    <lesson_type>Practice</lesson_type>
+    <teacher>Belousov Alexander Sergeevich</teacher>
+  </section>
+  <!-- 12313131313 -->
+  <section name="thursday_lesson_2">
+    <academic_building>Kronverksky Prospekt 49, Building A</academic_building>
+    <classroom>2304</classroom>
+    <time>15:30-17:00</time>
+    <discipline>History of Russian science and technology</discipline>
+    <lesson_type>Lecture</lesson_type>
+    <teacher>Belousov Alexander Sergeevich</teacher>
+  </section>
+  <!-- adadadaapofa -->
+</schedule>
